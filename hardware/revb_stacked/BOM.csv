@@ -1,0 +1,7 @@
+Reference,Quantity,Part,Role,Assembly note
+U1,1,Seeed Studio XIAO RP2040,USB HID controller,"Use a standard board without pre-soldered headers"
+J1 J2,2,Akizuki FH-1x7SG/RH (104285),Female sockets on the XIAO,"Mount on the XIAO component side with the openings upward"
+P1 P2,2,Akizuki PHA-1x7SG (104393),Male headers on the upper carrier,"Mount on the carrier underside with the contacts pointing downward"
+SW1,1,PCB-mount 5-pin RGB-compatible MX switch,Keyboard switch,"Use a translucent lower housing when illuminating it with the XIAO onboard RGB LED"
+KEYCAP1,1,Translucent 1U MX keycap,Keycap,"Check the actual keycap and switch fit before final assembly"
+PCB1,1,OneKey stacked Rev.B carrier,Upper carrier PCB,"21.10 x 17.80 mm; 1.00 mm finished thickness"

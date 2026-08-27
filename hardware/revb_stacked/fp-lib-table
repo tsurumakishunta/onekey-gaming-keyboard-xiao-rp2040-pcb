@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OneKeyRevB")(type "KiCad")(uri "${KIPRJMOD}/libraries/OneKeyRevB.pretty")(options "")(descr "OneKey Rev.B candidate footprints"))
+)

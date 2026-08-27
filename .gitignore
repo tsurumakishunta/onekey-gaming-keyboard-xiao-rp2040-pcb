@@ -1,0 +1,26 @@
+# KiCadが各PCで保存する個人用設定・自動保存・バックアップです。
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.lck
+~*
+.history/
+*-backups/
+fp-info-cache
+
+# エディター、Python、OSが生成するローカルファイルです。
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 認証情報や秘密情報の誤登録を防ぐための予防設定です。
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx

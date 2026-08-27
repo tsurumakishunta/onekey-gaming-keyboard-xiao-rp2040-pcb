@@ -1,0 +1,10 @@
+(version 1)
+
+(rule "Candidate copper clearance"
+  (constraint clearance (min 0.25mm)))
+
+(rule "Candidate copper to edge"
+  (constraint edge_clearance (min 0.30mm)))
+
+(rule "Minimum track width"
+  (constraint track_width (min 0.25mm)))
